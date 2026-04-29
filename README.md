@@ -17,7 +17,7 @@ Project consists of exploring Windows 11 tools and functions for personalization
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Right Click Start button to access System: <br/>
+1. Display Options: Right Click Start button to access System: <br/>
 <img src="https://i.imgur.com/lZQShRE.png" height="80%" width="80%" alt="ISO File"/>
 <br />
 <br />
@@ -33,7 +33,7 @@ Backtrack to Display settings to observe changes: <br/>
 <img src="https://i.imgur.com/xIWrhlX.png" height="80%" width="80%" alt="Bridged Adapter"/>
 <br />
 <br />
-Install Server OS from ISO download file: <br/>
+2.LockScreen: Right click to access Peronsalize: <br/>
 <img src="https://i.imgur.com/7F0CNcG.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
