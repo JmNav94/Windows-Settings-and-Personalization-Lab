@@ -39,23 +39,23 @@ Install Server OS from ISO download file: <br/>
 <br />
 <br />
 Install Windows 11 OS from ISO download file: <br/>
-<img src="https://i.imgur.com/0BmaXPJ.png" height="80%" width="80%" alt="OS and CPU"/>
+<img src="https://i.imgur.com/BxyuneF.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
 Rename Domain Controller PC Name: <br/>
-<img src="https://i.imgur.com/1xi2ay5.png" height="80%" width="80%" alt="OS and CPU"/>
+<img src="https://i.imgur.com/YF6WRJF.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
 Add Server Roles: <br/>
-<img src="https://i.imgur.com/zvnVbWD.png" height="80%" width="80%" alt="Server Roles"/>
+<img src="https://i.imgur.com/UKdTRbo.png" height="80%" width="80%" alt="Server Roles"/>
 <br />
 <br />
 Create Root Domain Name:  <br/>
-<img src="https://i.imgur.com/Mspi5JX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zpw6sd2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Help Desk user on Active Directory and Promote to Admin User:  <br/>
-<img src="https://i.imgur.com/1obl7iO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KcSh5gI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
