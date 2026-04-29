@@ -19,23 +19,23 @@ Project consists of building an Active Directory Server and Client virtual envir
 
 <p align="center">
 Download Windows Server 2022 and Windows 11 from ISO file: <br/>
-<img src="https://i.imgur.com/ygBuR0d.png" height="80%" width="80%" alt="ISO File"/>
+<img src="https://i.imgur.com/lZQShRE.png" height="80%" width="80%" alt="ISO File"/>
 <br />
 <br />
 Set Virtual Machine OS and CPU: <br/>
-<img src="https://i.imgur.com/Efxi6wS.png" height="80%" width="80%" alt="OS and CPU"/>
+<img src="https://i.imgur.com/bwbvrBq.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
 Set DCLab to Bridged Network Adapter: <br/>
-<img src="https://i.imgur.com/IuaqUcl.png" height="80%" width="80%" alt="Bridged Adapter"/>
+<img src="https://i.imgur.com/CtuiE3f.png" height="80%" width="80%" alt="Bridged Adapter"/>
 <br />
 <br />
 Set Windows11 to same Bridged Network Adapter: <br/>
-<img src="https://i.imgur.com/AwDAJ4K.png" height="80%" width="80%" alt="Bridged Adapter"/>
+<img src="https://i.imgur.com/xIWrhlX.png" height="80%" width="80%" alt="Bridged Adapter"/>
 <br />
 <br />
 Install Server OS from ISO download file: <br/>
-<img src="https://i.imgur.com/lMMiuwC.png" height="80%" width="80%" alt="OS and CPU"/>
+<img src="https://i.imgur.com/7F0CNcG.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
 Install Windows 11 OS from ISO download file: <br/>
